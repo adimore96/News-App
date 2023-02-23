@@ -1,4 +1,4 @@
-# Live View of this prohect is not Avaliable Because News API is not Free to  Deploy Applications.
+# Live View of this project is not Avaliable Because News API is not Free to  Deploy Applications.
 Here is some SnapShots of the Project.
 
 ![Newsapp2](https://user-images.githubusercontent.com/91413755/221010107-83a68dbd-fca4-4b28-8138-7626d2958ef0.png)
