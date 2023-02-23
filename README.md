@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Live View of this prohect is not Avaliable Because News API is not Free to Deploy.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
